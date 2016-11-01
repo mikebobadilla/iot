@@ -13,6 +13,8 @@
   "author": "Mike Bobadilla",
   "license": "ISC",
   "dependencies": {
-    "johnny-five": "^0.10.3"
+    "express": "^4.14.0",
+    "johnny-five": "^0.10.3",
+    "socket.io": "^1.5.1"
   }
 }
